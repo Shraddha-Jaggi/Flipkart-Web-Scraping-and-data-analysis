@@ -9,7 +9,7 @@ The web scraping process for Flipkart typically involves the following steps:
 <li><strong>Handle data extraction</strong>: Extract the relevant data from the HTML structure of Flipkart's pages. This can include product names, prices, descriptions, images, customer ratings, and reviews.<br>
 <li><strong>Store the data</strong>: Save the extracted data in a structured format, such as a CSV file, JSON document, or database. This allows for further analysis and processing.<br>
   
-Once the data is collected, you can perform various data analysis techniques to derive insights. Here are a few examples:
+Once the data is collected, you can perform various data analysis techniques to derive insights. For example:
 
 <li><strong>Price Analysis</strong>: Analyze the pricing trends of different products, identify discounts, or compare prices across different categories.<br>
 <li><strong>Product popularity</strong>: Determine the popularity of products based on factors like customer ratings, reviews, and sales rankings.<br>
